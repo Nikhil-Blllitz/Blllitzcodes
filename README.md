@@ -1,1 +1,1 @@
-# Adds two polynomials and gives output
+ Adds two polynomials and gives output
